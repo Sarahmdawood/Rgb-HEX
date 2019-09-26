@@ -1,0 +1,22 @@
+#hex-label{
+    text-align: center;
+}
+table{
+    position: absolute;
+    width: 108%;
+    border:2px solid black;
+}
+#container{
+    position: relative;
+    text-align: center;
+    margin: 160px auto;
+}
+h1{
+    
+    margin:50px;
+}
+input[type="range"]{
+    
+    width: 200px;
+    height:100px;
+}
